@@ -28,7 +28,7 @@ Usage: tile3.sh POS OFFSET
     OFFSET = left side panel width to deduce for window width calculation. Defaults is 0.
 ```
 
-**Note:** if some space is reserved by a left side panel on your desktop, you can set the optional OFFSET parameter to the width of your panel to take it in account during tiling.
+**Note:** if some space is reserved by a left side panel on your desktop, you can set the optional `OFFSET` parameter to the width of your panel to take it in account during tiling.
 
 ### Example to tile the active window in the center
 
