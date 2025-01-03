@@ -15,7 +15,7 @@ Tested on Ubuntu 24.04.
 
 ## Usage
 
-```bash
+```
 bash tile3.sh 
 Move and resize active window to a third of the screen horizontaly.
 
@@ -44,7 +44,8 @@ bash tile3.sh L 48
 
 Combined with the up/down tiling positions, you can easily tile windows as a 2 rows x 3 columns as height is not affected by tile3
 
-- First tile up or down your window, then use tile3 to tile left, center or right.
+- First tile up or down your window
+- Then use tile3 to tile left, center or right.
 
 ## Limits
 
