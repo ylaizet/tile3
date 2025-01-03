@@ -15,6 +15,8 @@ Tested on Ubuntu 24.04.
 
 ## Usage
 
+Run tile3.sh without parameters to display help message:
+
 ```
 bash tile3.sh 
 Move and resize active window to a third of the screen horizontaly.
